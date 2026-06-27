@@ -46,9 +46,9 @@ Para todos os exercícios, leia todo o JavaDoc disponível na classe indicada, q
 
 Abra a classe link:src/main/java/exercicios/Aula04.java[Aula04.java] e implemente os métodos disponíveis lá. Tais métodos devem ser implementados utilizando Streams e Lambdas. O nome da função deixa claro o que a função deve fazer.
 
-=== Aula 06
+=== Aula 07
 
-Abra a classe link:src/main/java/exercicios/Aula06.java[Aula06.java] e implemente os métodos disponíveis lá. Tais métodos devem ser implementados utilizando Streams e Lambdas.
+Abra a classe link:src/main/java/exercicios/Aula07.java[Aula07.java] e implemente os métodos disponíveis lá. Tais métodos devem ser implementados utilizando Streams e Lambdas.
 
 == 5. Projetos para serem desenvolvidos
 

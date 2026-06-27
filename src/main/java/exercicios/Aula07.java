@@ -21,7 +21,7 @@ import java.util.function.Predicate;
  *
  * @author Manoel Campos da Silva Filho
  */
-public class Aula06 extends Aula {
+public class Aula07 extends Aula {
     /**
      * {@link Predicate<Estudante>} que seleciona somente as mulheres
      * matriculadas em algum curso e com nota maior ou igual a 6.
@@ -36,7 +36,7 @@ public class Aula06 extends Aula {
      * Para verificar se sua implementação está correta, clique com o botão direito no nome do projeto na aba esquerda
      * do IntelliJ e selecione a opção "Run All Tests".
      */
-    public Aula06() {
+    public Aula07() {
         //TODO: Insira chamdas das funções existentes aqui, para você conferir como estão funcionando
     }
 
@@ -44,7 +44,7 @@ public class Aula06 extends Aula {
      * Veja o método construtor {@link #Aula06()}.
      */
     public static void main(String[] args) {
-        new Aula06();
+        new Aula07();
     }
 
     /**
