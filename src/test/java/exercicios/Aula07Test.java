@@ -10,7 +10,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-class Aula06Test {
+class Aula07Test {
     private final Aula07 instance = new Aula07();
 
     private List<Estudante> callGetList(final Function<Aula07, List<Estudante>> getListMethod) {
